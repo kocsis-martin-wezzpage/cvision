@@ -10,7 +10,7 @@
 
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/reset.css">
-    <link rel="stylesheet" href="/public/css/helper.css">
+    <link rel="stylesheet" href="/css/helper.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <link rel="stylesheet" href="/Assets/font-awesome/css/font-awesome.min.css">
 
