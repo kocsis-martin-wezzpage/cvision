@@ -4,7 +4,7 @@
         </div>
         <div class="right">
             <ul>
-                <li class="active">{{Lang::get('menu.home')}}</li>
+                <li class="active">asdsadasdsa{{Lang::get('menu.home')}}</li>
                 <li>{{Lang::get('menu.services')}}</li>
                 <li>{{Lang::get('menu.products')}}</li>
                 <li>{{Lang::get('menu.environment')}}</li>
